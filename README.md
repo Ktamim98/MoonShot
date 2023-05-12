@@ -1,6 +1,8 @@
 # MoonShot
 MoonShot is an iOS application that showcases the details of various NASA space missions, as well as the astronauts who have been involved in them. Users can learn about each mission's history, objectives, and crew members, as well as view photos and descriptions of the astronauts who have participated in these missions.
 
+https://github.com/Ktamim98/MoonShot/assets/124142522/08addb76-6530-4316-af15-26ce4a922239
+
 ## Project Overview
 The app includes three views: ContentView, MissionView, and AstronautView. The ContentView displays a grid of missions, while the MissionView shows the details of a specific mission, including its highlights and the crew members involved. The AstronautView displays information about a specific astronaut. The app loads data from two JSON files: astronauts.json and missions.json.
 
